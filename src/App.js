@@ -10,6 +10,7 @@ class app extends react.component {
       <link to="\tentangsaya">tentang saya</link> |
       <link to="\karya">karya</link> |
       <link to="\kontak">kontak</link></hr> 
+      <Link to="/gallery" className="nav-link">Gallery</Link>
       <p>utama /</p>
       </div>
     );
