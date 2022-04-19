@@ -1,5 +1,5 @@
 import react from 'react';
-import utama from'./components/utama';
+import utama from'./pages/utama';
 import {link} from 'react-router-dom';
 
 class app extends react.component {
